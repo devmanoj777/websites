@@ -1,0 +1,24 @@
+body {
+    margin: 0px;
+    text-align: center;
+}
+.container{
+    margin: auto;
+    
+}
+img{
+    width: 100px;
+    display: block;
+    float: left;
+    margin-right: 30px;
+    display: block;
+    margin-top: 40px;
+
+}
+h3{
+    display: inline;
+    position: relative;
+    
+
+
+}
