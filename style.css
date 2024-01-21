@@ -10,7 +10,7 @@ img{
     width: 100px;
     display: block;
     float: left;
-    margin-right: 30px;
+    margin: 30px;
     display: block;
     margin-top: 40px;
 
@@ -21,4 +21,11 @@ h3{
     
 
 
+}
+.right{
+    clear: both;
+}
+.right img{
+    float: right;
+    margin: 30px;
 }
